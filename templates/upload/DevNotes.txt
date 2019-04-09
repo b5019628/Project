@@ -1,0 +1,5 @@
+Model = FRP-L09
+Build = FRD-L09C432B394
+EMUI = 5.0.1
+Android = 7.0
+1662314313010689 = Unlock code.
